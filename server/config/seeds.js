@@ -90,11 +90,11 @@ db.once("open", async () => {
       quantity: 1,
     },
     {
-      name: "Powdered Chicken Stock",
+      name: "Chicken Stock Powder",
       category: categories[2]._id,
       description:
         "Ut vulputate hendrerit nibh, a placerat elit cursus interdum.",
-      image: "powdered-chicken-stock.jpg",
+      image: "chicken-stock-powdder.jpg",
       price: 7.99,
       quantity: 1,
     },
@@ -130,16 +130,16 @@ db.once("open", async () => {
       category: categories[3]._id,
       description:
         "Ut vulputate hendrerit nibh, a placerat elit cursus interdum.",
-      image: "wheat-flour",
+      image: "wheat-flour.jpg",
       price: 1.99,
       quantity: 1,
     },
     {
-      name: "Corn Flour",
+      name: "Maize Flour",
       category: categories[3]._id,
       description:
         "Ut vulputate hendrerit nibh, a placerat elit cursus interdum.",
-      image: "maize-flour",
+      image: "maize-flour.jpg",
       price: 2.99,
       quantity: 1,
     },
@@ -148,7 +148,7 @@ db.once("open", async () => {
       category: categories[3]._id,
       description:
         "Ut vulputate hendrerit nibh, a placerat elit cursus interdum.",
-      image: "cassava-flour",
+      image: "cassava-flour.jpg",
       price: 3.99,
       quantity: 1,
     },
@@ -157,7 +157,7 @@ db.once("open", async () => {
       category: categories[3]._id,
       description:
         "Ut vulputate hendrerit nibh, a placerat elit cursus interdum.",
-      image: "plantain-flour",
+      image: "plantain-flour.jpg",
       price: 3.99,
       quantity: 1,
     },
@@ -166,7 +166,7 @@ db.once("open", async () => {
       category: categories[4]._id,
       description:
         "Ut vulputate hendrerit nibh, a placerat elit cursus interdum.",
-      image: "olive-oil",
+      image: "olive-oil.jpg",
       price: 10.99,
       quantity: 1,
     },
@@ -175,7 +175,7 @@ db.once("open", async () => {
       category: categories[4]._id,
       description:
         "Ut vulputate hendrerit nibh, a placerat elit cursus interdum.",
-      image: "red-palm-oil",
+      image: "red-palm-oil.jpg",
       price: 11.99,
       quantity: 1,
     },
@@ -184,7 +184,7 @@ db.once("open", async () => {
       category: categories[4]._id,
       description:
         "Ut vulputate hendrerit nibh, a placerat elit cursus interdum.",
-      image: "coconut-oil",
+      image: "coconut-oil.jpg",
       price: 14.99,
       quantity: 1,
     },
@@ -193,7 +193,7 @@ db.once("open", async () => {
       category: categories[4]._id,
       description:
         "Ut vulputate hendrerit nibh, a placerat elit cursus interdum.",
-      image: "corn-oil",
+      image: "corn-oil.jpg",
       price: 7.99,
       quantity: 1,
     },
