@@ -37,7 +37,6 @@
   right: 1%;
   font-size: 2rem;
   cursor: pointer;
-  background-color: var(--secondary);
   border-radius: 50%;
   padding: .25rem;
   width: 50px;
@@ -64,7 +63,7 @@
     position: relative;
     max-width: 100%;
     max-height: auto;
-    box-shadow: none;
+    box-shadow: 10px 5px 5px yellow;
     background-color: inherit;
   }
 
