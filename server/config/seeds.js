@@ -94,7 +94,7 @@ db.once("open", async () => {
       category: categories[2]._id,
       description:
         "Ut vulputate hendrerit nibh, a placerat elit cursus interdum.",
-      image: "chicken-stock-powdder.jpg",
+      image: "chicken-stock-powder.jpg",
       price: 7.99,
       quantity: 1,
     },
